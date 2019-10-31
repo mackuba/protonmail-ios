@@ -4,7 +4,7 @@
 <dict>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)ch.protonmail.protonmail</string>
+		<string>$(AppIdentifierPrefix)eu.mackuba.ProtonMail</string>
 	</array>
 </dict>
 </plist>

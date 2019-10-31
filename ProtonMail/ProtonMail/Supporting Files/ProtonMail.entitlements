@@ -20,7 +20,7 @@
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<string>$(AppIdentifierPrefix)eu.mackuba.ProtonMail</string>
 	</array>
 </dict>
 </plist>

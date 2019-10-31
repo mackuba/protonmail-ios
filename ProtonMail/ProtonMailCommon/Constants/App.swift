@@ -80,7 +80,7 @@ struct Constants {
                 #if Enterprise
                 return "group.com.protonmail.protonmail"
                 #else
-                return "group.ch.protonmail.protonmail"
+                return "group.eu.mackuba.ProtonMail"
                 #endif
             }
         }
